@@ -1,3 +1,10 @@
+#
+#   Projet de développement Python 
+#   Gestionnaire d'utilisateurs d'une piscine 
+#
+
+print("--- Gestionnaire d'utilisateurs d'une piscine ---")
+
 liste = []
 commande = ''
 
