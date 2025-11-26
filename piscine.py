@@ -7,7 +7,7 @@ print("--- Gestionnaire d'utilisateurs d'une piscine ---")
 
 liste = []
 commande = ''
-
+#salut 
 while commande != 'exit':
     commande = input("Que faut-il faire ? ")
 
