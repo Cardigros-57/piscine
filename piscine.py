@@ -44,3 +44,17 @@ while commande != 'exit':
                 trouve = True
         if not trouve:
             print("Aucune activité trouvée à cette date.")
+# MT commande == 'nageur' 
+""" 
+while commande != 'exit':
+    commande = input("Que faut-il faire ? ")
+
+    if commande == 'ajout':
+        a = input("Qui nage ? ")
+        b = input("quelle nage ? ")
+        liste.append((a,b))
+
+if commande == 'nageur':
+        for Prénom, nageur, in liste: 
+            print(f"Prénom {Prénom}, nage {nage}")
+"""
