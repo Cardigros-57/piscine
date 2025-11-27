@@ -44,6 +44,33 @@ while commande != 'exit':
                 trouve = True
         if not trouve:
             print("Aucune activité trouvée à cette date.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # MT commande == 'nageur' 
 """ 
 while commande != 'exit':
