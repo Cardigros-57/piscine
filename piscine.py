@@ -19,8 +19,8 @@ while commande != 'exit':
         liste.append((a, b, c))
 
     if commande == 'liste':
-        for elt in liste:
-            print(f"Prénom {elt[0]}, nage {elt[1]}, longueur {elt[2]}")
+        for nageur, nage, longeur in liste:
+            print(f"Prénom {nageur}, nage {nage}, longueur {longeur}")
 
     if commande == 'nage':
         nage_recherchee = input("Quelle nage ? ")
