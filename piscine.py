@@ -2,7 +2,7 @@
 # COM MT 
 #   Projet de développement Python 
 #   Gestionnaire d'utilisateurs d'une piscine 
-#ludo le nullos
+#   donovan jltmoy
 
 print("--- Gestionnaire d'utilisateurs d'une piscine ---")
 
